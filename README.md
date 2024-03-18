@@ -1,2 +1,2 @@
 # C programs
- different  c language codes
+ different  c language code
